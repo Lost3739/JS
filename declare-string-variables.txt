@@ -1,2 +1,2 @@
 var myFirstName ="Vladislav";
-var myLastName ="Petlitskiy";
+var myLastName ="Petlitski";
